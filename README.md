@@ -1,7 +1,11 @@
 ✅ Prerequisites
 Before running the program, make sure the following Python libraries are installed:
+
 pip install opencv-python
+
 pip install mediapipe
+
+
 If you're using sound alerts (like BAK.wav), also ensure you're on Windows, since the winsound module is built-in for Windows only.
 
 You’ll also need:
